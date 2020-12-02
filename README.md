@@ -1,6 +1,8 @@
 # F.R.I.E.N.D.S-Quiz-App
 
 This is a simple quiz app based on popular American sit-com FRIENDS.
+built on repl.it,
+
 Play and enjoy!
 
 click on the link below 👇
